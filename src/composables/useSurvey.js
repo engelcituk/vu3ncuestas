@@ -25,7 +25,7 @@ export default function () {
   /**
    * Bloque de la encuesta en el paso actual
    */
-  const    = computed(() => {
+  const currentSurveyData = computed(() => {
       if (survey.data) {
         return survey.data[survey.step];
       }
