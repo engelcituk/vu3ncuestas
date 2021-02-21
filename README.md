@@ -1,4 +1,4 @@
-# vu3ncuestas
+# vue3ncuestas
 
 ## Project setup
 ```
