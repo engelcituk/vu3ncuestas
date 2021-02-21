@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Encuesta Cursosdesarrolloweb",
+    "subtitle": "Ayúdanos a mejorar"
+  },
+  {
+    "title": "Mejóremos la interfaz",
+    "subtitle": "Ayúdanos a mejorar la interfaz de la plataforma",
+    "questions": [
+      {
+        "question":  "¿Te gusta la interfaz de la plataforma?",
+        "options": ["Sí", "No"],
+        "result": null
+      },
+      {
+        "question":  "¿Crees que la navegación es útil?",
+        "options": ["Sí", "No"],
+        "result": null
+      },
+      {
+        "question":  "¿Puntúa del 1 al 10 la forma en la que se muestra el contenido de los cursos?",
+        "options": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "result": null
+      }
+    ]
+  },
+  {
+    "title": "¿Qué temas te interesan más?",
+    "subtitle": "Ayúdanos a mejorar la temática de la plataforma",
+    "questions": [
+      {
+        "question":  "¿Qué lenguaje de programación es el que más utilizas?",
+        "options": ["PHP", "JavaScript"],
+        "result": null
+      },
+      {
+        "question":  "¿En qué frameworks estás más interesado?",
+        "options": ["Laravel", "Vue", "NodeJS", "AWS"],
+        "result": null
+      },
+      {
+        "question":  "¿Puntúa del 1 al 10 la calidad de los cursos de la plataforma?",
+        "options": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "result": null
+      },
+      {
+        "question": "Escribe aquí tu opinión",
+        "result": null
+      }
+    ]
+  },
+  {
+    "title": "¿Qué tipo de cursos buscas?",
+    "subtitle": "Ayúdanos a mejorar la configuración de los cursos",
+    "questions": [
+      {
+        "question":  "¿Buscas cursos largos que abarquen muchos temas?",
+        "options": ["Sí", "No"],
+        "result": null
+      },
+      {
+        "question":  "¿Prefieres cursos cortos que vayan directos al grano?",
+        "options": ["Sí", "No"],
+        "result": null
+      },
+      {
+        "question":  "¿Cuánto tiempo crees que debería durar de media un curso?",
+        "options": ["1 hora", "2 horas", "3 horas", "Más de 3 horas"],
+        "result": null
+      }
+    ]
+  },
+  {
+    "title": "¿Qué opinión personal tienes de Cursosdesarrolloweb?",
+    "subtitle": "Queremos saber qué piensas de nosotros",
+    "questions": [
+      {
+        "question":  "¿Puntúa del 1 al 10 la plataforma?",
+        "options": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "result": null
+      },
+      {
+        "question":  "Escribe aquí tu opinión",
+        "result": null
+      }
+    ]
+  }
+]
